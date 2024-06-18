@@ -1,0 +1,21 @@
+/* Customs */
+.roboto-light {
+    font-family: "Roboto", sans-serif;
+    font-weight: 300;
+    font-style: normal;
+}
+  
+.roboto-medium {
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}
+
+:root {
+    --main-color: #28a745;
+    --black: #212529;
+    --gray: #707070;
+    --light: #F8F9FA;
+    --white: #fff;
+}
+
